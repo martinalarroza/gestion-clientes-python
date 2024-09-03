@@ -1,0 +1,31 @@
+dni,nombre,edad,direccion,telefono,email,preferente
+20345678,Pedro Martínez,25,Calle Florida 123,011-555-1234,pedro.martinez@hotmail.com,si
+29456789,Maria Rodríguez,28,Avenida Corrientes 456,011-555-5678,maria.rodriguez@gmail.com,no
+31567890,Carlos Gómez,22,Calle Lavalle 789,011-555-9876,carlos.gomez@yahoo.com,no
+45278901,Pedro Fernández,29,Calle Reconquista 321,011-555-4321,pedro.fernandez@hotmail.com,si
+58689012,Ana López,30,Calle Esmeralda 567,011-555-8765,ana.lopez@gmail.com,no
+61790123,Andres Pérez,26,Avenida de Mayo 246,011-555-2468,andres.perez@yahoo.com,no
+76101234,Pedro Sanchez,23,Avenida 9 de Julio 1357,011-555-1357,pedro.sanchez@hotmail.com,si
+89412345,Laura Torres,24,Calle Maipú 7890,011-555-7890,laura.torres@gmail.com,no
+91223456,Sofia Benítez,27,Avenida Santa Fe 3698,011-555-3698,sofia.benitez@yahoo.com,no
+10234567,Pedro Romero,28,Calle Córdoba 9753,011-555-9753,pedro.romero@hotmail.com,si
+11122334,Juan Fernández,21,Avenida Callao 7896,011-555-7896,juan.fernandez@gmail.com,no
+12233455,Pedro González,27,Avenida Rivadavia 9854,011-555-9854,pedro.gonzalez@yahoo.com,si
+13944566,Carlos Rodríguez,25,Calle San Martín 1239,011-555-1239,carlos.rodriguez@hotmail.com,no
+14255677,Pedro Smith,30,Avenida Belgrano 4567,011-555-4567,pedro.smith@gmail.com,si
+15766788,Lucia Fernández,22,Calle Sarmiento 6543,011-555-6543,lucia.fernandez@yahoo.com,no
+16777899,Pedro Gómez,20,Avenida Entre Ríos 3214,011-555-3214,pedro.gomez@hotmail.com,si
+17889000,Andres Jiménez,26,Calle Lavalle 9870,011-555-9870,andres.jimenez@gmail.com,no
+18190011,Pedro Pérez,21,Avenida Corrientes 5648,011-555-5648,pedro.perez@yahoo.com,si
+19201122,Maria Smith,24,Calle Florida 3219,011-555-3219,maria.smith@hotmail.com,no
+20312233,Pedro González,25,Avenida Callao 9187,011-555-9187,pedro.gonzalez2@gmail.com,si
+21423344,Pablo Rodríguez,23,Avenida Rivadavia 7532,011-555-7532,pablo.rodriguez@yahoo.com,no
+22234455,Pedro Martínez,27,Avenida Santa Fe 1987,011-555-1987,pedro.martinez2@hotmail.com,si
+23745566,Ana López,26,Calle Sarmiento 6732,011-555-6732,ana.lopez2@gmail.com,no
+24156677,Pedro Sánchez,22,Avenida 9 de Julio 1289,011-555-1289,pedro.sanchez2@yahoo.com,si
+25367788,Carlos Benítez,29,Calle Lavalle 3765,011-555-3765,carlos.benitez@hotmail.com,no
+26988899,Pedro Romero,30,Avenida de Mayo 1230,011-555-1230,pedro.romero2@gmail.com,si
+27199900,Sofia Pérez,28,Calle Maipú 7654,011-555-7654,sofia.perez@yahoo.com,no
+28800011,Pedro González,20,Avenida Corrientes 8769,011-555-8769,pedro.gonzalez3@hotmail.com,si
+29211122,Lucia Rodríguez,27,Calle Florida 4327,011-555-4327,lucia.rodriguez@gmail.com,no
+30812233,Pedro Fernández,24,Avenida 9 de Julio 6578,011-555-6578,pedro.fernandez2@yahoo.com,si
